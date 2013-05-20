@@ -17,6 +17,6 @@ Output inspected Ruby object as a colorized string. If no color is specified, it
     pcol 1, :green
     pcol 1, :green
 
-## Example of the output
+## Preview
 
-Screenshot coming soon.
+![Example](https://github.com/exploid/pcol/raw/master/example.png)
